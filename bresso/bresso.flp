@@ -1,0 +1,9 @@
+﻿<flash_project name="BlackJack" version="1">
+    <project_file path="./Player.as" filetype="as" />
+    <project_file path="./Card.as" filetype="as" />
+    <project_file path="./Dealer.as" filetype="as" />
+    <project_file path="./Deck.as" filetype="as" />
+    <project_file path="./Hand.as" filetype="as" />
+    <project_file path="./Login.fla" filetype="fla" profile="" />
+    <project_file path="./Main.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>
